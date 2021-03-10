@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Tags Essenciais</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+        <!-- Títulos e Subtítulos -->
+        <h1>Título 1</h1>
+        <h2>Título 2</h2>
+        <h3>Título 3</h3>
+        <h4>Título 4</h4>
+        <h5>Título 5</h5>
+        <h6>Título 6</h6>
+
+        <!-- Parágrafos -->
+        <p>Isto é um parágrafo.</p>
+
+        <!-- Lista não ordenada -->
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+
+        <!-- Lista ordenada -->     
+        <ol>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ol>
+
+        <!-- Imagens / Blocos -->    
+        <div>
+            <img height="200" src="img/sara-orsi.jpg" />
+        </div>
+        <div>
+            <img height="200" src="https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg" />
+        </div>
+
+         <!-- Links --> 
+         <a href="https://github.com/tripledoubleuorg/curso-html-css" target="_blank">Aulas</a>
+
+         <a href="01-estrutura-documento.html">1 Estrutura</a>
+         <a href="02-primeira-pagina.html">2 Primeira Página</a>
+
+         <div>
+            <a href="pdf-teste.pdf" target="_blank" download>Download</a>
+         </div>
+
+
+    </body>
+</html>
